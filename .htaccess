@@ -1,0 +1,5 @@
+SetEnv APP "C:\xampp\htdocs\repository\repository.app\app.php"
+
+SetEnv PROJECT_ROOT "C:\xampp\htdocs\repository"
+
+SetEnv HOST_URL "http://localhost/repository"
